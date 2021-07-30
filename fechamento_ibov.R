@@ -22,7 +22,7 @@ dt <- t(dt)
 
 
 # escreve num arquivo xlsx
-write.xlsx(dt,"C:\\Users\\55119\\OneDrive\\?rea de Trabalho\\Datasets\\Mercado\\Ibov.xlsx", col.names = F,row.names=T)
+write.xlsx(dt,"C:\\Users\\55119\\OneDrive\\Área de Trabalho\\Datasets\\Mercado\\Ibov.xlsx", col.names = F,row.names=T)
 
 
 #chartSeries(TRPL4.SA, subset = 'last 3 months')
